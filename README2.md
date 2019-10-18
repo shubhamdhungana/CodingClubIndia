@@ -9,8 +9,6 @@ Pl. add your names beneath this line.
 
 Harsh Patel (DDU, Nadiad)
 
-Panchal Priyavardhan
-
 Manan Bedi (Delhi)
 
 Rhythm Sehgal
@@ -38,5 +36,3 @@ Samaksh Tak(Udaipur)
 Ujjwal (Delhi)
 
 Vivek Pramanik (Jharkhand)
-
-Avirup Aditya(Kolkata)
