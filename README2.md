@@ -36,3 +36,5 @@ Samaksh Tak(Udaipur)
 Ujjwal (Delhi)
 
 Vivek Pramanik (Jharkhand)
+
+Soutrik Acharya (Kolkata)
