@@ -36,6 +36,12 @@ Samaksh Tak(Udaipur)
 Ujjwal (Delhi)
 
 
+Vivek Pramanik (Jharkhand)
+
+
+Sanjay Kumar (Kochi) trmpsanjay@gmail.com
+
+
 Nishant Kumar (Jharkhand)
 
 
@@ -46,4 +52,3 @@ Vivek Pramanik (Jharkhand)
 
 
 Praashant Sharma (DTU, Delhi)
-
