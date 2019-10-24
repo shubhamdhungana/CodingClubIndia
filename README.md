@@ -7,6 +7,8 @@ Pl. add your names beneath this line.
  
  ---------------------------------------------------------------------------------
 
+Vaibhav (Haryana)
+
 Harsh Patel (DDU, Nadiad)
 
 Panchal Priyavardhan
@@ -43,4 +45,26 @@ Avirup Aditya(Kolkata)
 
 Soutrik Acharya(Kolkata)
 
+
 Mayur Sonkamble(Aurangabad)
+
+
+Aman Sohani(Indore)
+
+
+Ujjwal Rustagi(Delhi)
+
+
+Pankaj  (Haryana)
+
+
+Rishabh Srivastava(Lucknow)
+
+
+Sandeep Maithani(DIT,Dehradun)
+
+
+Nishant Kumar (Jharkhand)
+
+
+Prashant Sharma (DTU, delhi)
