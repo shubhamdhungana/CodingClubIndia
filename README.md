@@ -6,6 +6,9 @@ This repository is to Kickstart Open Source and promote Hacktoberfest2019.
 Pl. add your names beneath this line.
  
  ---------------------------------------------------------------------------------
+SAI TARUN PALAKULA(Andhra Pradesh)
+
+Vaibhav (Haryana)
 
 Harsh Patel (DDU, Nadiad)
 
@@ -17,7 +20,9 @@ Rhythm Sehgal
 
 Saranya Krishnan M (Trivandrum)
 
- Adnan Husain 
+Adnan Husain 
+
+Mahesh Jaganiya
 
  Pratik Narola (MNNIT, Allahabad)
 
@@ -42,3 +47,42 @@ Vivek Pramanik (Jharkhand)
 Avirup Aditya(Kolkata)
 
 Soutrik Acharya(Kolkata)
+
+
+Milan Jain(Manipur)
+
+
+Apoorv Kudesia(Delhi)
+
+
+Sanjay Kumar(Kochi) trmpsanjay@gmail.com
+
+
+Himanshu Jain(Delhi)
+
+
+Himanshu Rathore (delhi)
+
+
+Mayur Sonkamble(Aurangabad)
+
+
+Aman Sohani(Indore)
+
+
+Ujjwal Rustagi(Delhi)
+
+
+Pankaj  (Haryana)
+
+
+Rishabh Srivastava(Lucknow)
+
+
+Sandeep Maithani(DIT,Dehradun)
+
+
+Nishant Kumar (Jharkhand)
+
+
+Prashant Sharma (DTU, delhi)

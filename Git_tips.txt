@@ -1,0 +1,24 @@
+Here are a few tips for beginners to get better in Git use. 
+
+1. Practise Git basics 
+  Get an open hand in git basic commands like push, pull, add, commit etc and understand about terms like staging, branching, forking
+  and their necessities. 
+ 
+2. Don't try to complicate Git WorkFlow
+  Unless required by circumstances, keep the git flow simple and easy to roll back rather than too much indulgence like forking or branching
+  unnecessarily. 
+  
+3. It's ok tom make mistakes. 
+  Everything can be rolled back.
+  
+4. Get through the concept of Branching 
+  Important to save, edit and manage difference versions of same software. You gotta need to know about this.
+  
+5. Staging Area
+  You need to know how to stage temporary changes before committing them because not all changes need to be committed and may have to be 
+  rolled back sooner than you know.
+  
+6. GIT GUI
+  In case, CLI is not your cup of tea, GUI interface is where you should go.
+  
+  
