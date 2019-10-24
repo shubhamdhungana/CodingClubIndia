@@ -20,7 +20,9 @@ Rhythm Sehgal
 
 Saranya Krishnan M (Trivandrum)
 
- Adnan Husain 
+Adnan Husain 
+
+Mahesh Jaganiya
 
  Pratik Narola (MNNIT, Allahabad)
 
