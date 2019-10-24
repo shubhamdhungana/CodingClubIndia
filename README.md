@@ -46,7 +46,10 @@ Avirup Aditya(Kolkata)
 Soutrik Acharya(Kolkata)
 
 
+Sandeep Maithani(DIT,Dehradun)
+
+
 Nishant Kumar (Jharkhand)
 
-Prashant Sharma (DTU, delhi)
 
+Prashant Sharma (DTU, delhi)
