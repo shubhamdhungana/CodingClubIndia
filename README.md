@@ -12,6 +12,8 @@ Vaibhav (Haryana)
 
 Harsh Patel (DDU, Nadiad)
 
+Shubham Dhungana (Kathmandu, Nepal)
+
 Panchal Priyavardhan
 
 Manan Bedi (Delhi)
